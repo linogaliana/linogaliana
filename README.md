@@ -20,9 +20,8 @@ of the Insee's Lab. Among my main ongoing projects:
 
 ## :chart_with_upwards_trend: GitHub Stats 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linogaliana&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Lino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linogaliana&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linogaliana&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&count_private=true" alt="Lino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linogaliana&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" /></a> |
 | ------------- | ------------- |
-
 
 <!--
 **linogaliana/linogaliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
