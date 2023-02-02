@@ -1,3 +1,18 @@
+<div id="badges">
+  <a href="https://linogaliana.fr">
+    <img src="https://img.shields.io/badge/Personnal Website-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://linogaliana.fr">
+    <img src="https://img.shields.io/badge/Python Website-%23ffd343?style=for-the-badge&logo=python&logoColor=blue" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/linogaliana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/LinoGaliana">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
 I am _data scientist_ in the French national statistical institute ([Insee](https://www.insee.fr/fr/accueil)), in charge of animating a network of data scientists in French administration (https://ssphub.netlify.app/).
