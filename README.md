@@ -29,7 +29,7 @@ Most of my work is available on my [Github page](https://github.com/linogaliana)
 the [Github page](https://github.com/inseefrlab)
 of the Insee's Lab. Among my main ongoing projects:
 
-- I maintain the [`utilitR` project](https://www.utilitr.org/) which is a collective effort involving many people from French administration to propose a high-quality documentation regarding <img height="18" width="18" src="https://cdn.simpleicons.org/r/00ccff99" /> `R` software ;
+- I maintain the [`utilitR` project](https://www.utilitr.org/) which is a collective effort involving many people from French administration to propose a high-quality documentation regarding <img height="18" width="18" src="https://cdn.simpleicons.org/r/00ccff99" /> software ;
 - I am involved in [`cartiflette`](https://github.com/InseeFrLab/cartiflette), a project to ease the retrieval of French administrative borders for mapping ;
 - I am involved in [`pynsee`](https://github.com/InseeFrLab/pynsee), a <img height="18" width="18" src="https://cdn.simpleicons.org/python/00ccff99" /> `Python` package to ease the retrieval of French official statistics produced by Insee.
 
