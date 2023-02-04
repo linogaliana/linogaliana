@@ -25,9 +25,8 @@ I also teach a course [_"Reproductibility and good practices in data science pro
 (<img height="18" width="18" src="https://cdn.simpleicons.org/python/00ccff99" /> [`Github` repository](https://github.com/linogaliana/ensae-reproductibilite-website) <a href="https://github.com/linogaliana/ensae-reproductibilite-website" class="github"><i class="fab fa-github"></i></a>)
 that brings student to the question of MLOps.
 
-Most of my work is available on my [Github page](https://github.com/linogaliana) or
-the [Github page](https://github.com/inseefrlab)
-of the Insee's Lab. Among my main ongoing projects:
+Most of my work is available on my <img height="18" width="18" src="https://cdn.simpleicons.org/github/00ccff99" /> [Github page](https://github.com/linogaliana) or
+the <img height="18" width="18" src="https://cdn.simpleicons.org/github/00ccff99" /> [Github page of the Insee's Lab](https://github.com/inseefrlab). Among my main ongoing projects:
 
 - I maintain the [`utilitR` project](https://www.utilitr.org/) which is a collective effort involving many people from French administration to propose a high-quality documentation regarding <img height="18" width="18" src="https://cdn.simpleicons.org/r/00ccff99" /> software ;
 - I am involved in [`cartiflette`](https://github.com/InseeFrLab/cartiflette), a project to ease the retrieval of French administrative borders for mapping ;
