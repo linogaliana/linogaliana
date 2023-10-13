@@ -1,6 +1,6 @@
 <div id="badges">
   <a href="https://linogaliana.fr">
-    <img src="https://img.shields.io/badge/Personnal Website-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Personal Website-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://linogaliana.fr">
     <img src="https://img.shields.io/badge/Python Website-%23ffd343?style=for-the-badge&logo=python&logoColor=blue" alt="Twitter Badge"/>
